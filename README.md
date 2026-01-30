@@ -14,10 +14,7 @@
 ---
 
 ### 🌱 Currently
-- Practicing **DSA daily**
-- Improving **problem-solving & backend fundamentals**
 - Working on **real-world projects**
-
 ---
 
 ### 🧑‍💻 Projects
