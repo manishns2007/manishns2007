@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 It's me Manish
 
-<!--
-**manishns2007/manishns2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | DSA • C++ • Backend  
+🧠 Building logic before writing code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 About Me
+- 📌 Strong focus on **Data Structures & Algorithms**
+- 💻 I code primarily in **C++**
+- 🧩 Love solving problems — from **brute force to optimized solutions**
+- 🔁 Code. Debug. Repeat.
+
+---
+
+### 🌱 Currently
+- Practicing **DSA daily**
+- Improving **problem-solving & backend fundamentals**
+- Working on **real-world projects**
+
+---
+
+### 🧑‍💻 Projects
+- 🔐 **Cybersecurity Chatbot** – chatbot focused on cybersecurity concepts  
+- 🏫 **DormFix** – hostel/room management system  
+- 📊 **Credit Scoring Model** – ML-based scoring system  
+
+---
+
+### 🧰 Tech Stack
+**Languages:**  
+C++, TypeScript, Python  
+
+**Core Skills:**  
+DSA • Problem Solving • Backend Development  
+
+---
+
+### 🛠️ Tools & IDEs
+VS Code • GitHub • Linux • Debuggers
+
+---
+
+### 📈 GitHub Stats
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishns2007&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishns2007&theme=tokyo-night)
+
+---
+
+### 🧩 LeetCode
+> Actively solving DSA problems  
+(Add LeetCode stats later if you want)
+
+---
+
+⭐ _Curious mind. Consistent grind._
