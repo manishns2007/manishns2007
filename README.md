@@ -37,7 +37,7 @@ DSA • Problem Solving • Backend Development
 ---
 
 ### 🛠️ Tools & IDEs
-VS Code • GitHub • Linux • Debuggers
+VS Code • GitHub • Linux • Debuggers 
 
 ---
 
@@ -48,13 +48,5 @@ VS Code • GitHub • Linux • Debuggers
 
 ### 🔥 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishns2007&theme=tokyo-night)
-
----
-
-### 🧩 LeetCode
-> Actively solving DSA problems  
-(Add LeetCode stats later if you want)
-
----
 
 ⭐ _Curious mind. Consistent grind._
