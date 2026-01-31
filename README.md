@@ -57,12 +57,6 @@ Focused on understanding system internals, identifying vulnerabilities, and buil
 
 ---
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishns2007&layout=compact&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ### 📫 Contact
