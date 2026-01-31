@@ -57,11 +57,7 @@ Focused on understanding system internals, identifying vulnerabilities, and buil
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishns2007&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishns2007&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishns2007&layout=compact&hide_border=true" height="150"/>
@@ -71,7 +67,7 @@ Focused on understanding system internals, identifying vulnerabilities, and buil
 
 ### 📫 Contact
 - GitHub: **@manishns2007**
-
+- instagram: @_.manish._019
 ---
 
 ### ⚡ Personal Note
