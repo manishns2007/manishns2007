@@ -1,49 +1,79 @@
-# Hi there 👋 It's me Manish
+<h1 align="center">Hi 👋, I'm Manish</h1>
+<h3 align="center">Cybersecurity | Artificial Intelligence | Software Development</h3>
 
-🚀 Aspiring Software Engineer | DSA • C++ • Backend  
-🧠 Building logic before writing code
-
----
-
-### 🔭 About Me
-- 📌 Strong focus on **Data Structures & Algorithms**
-- 💻 I code primarily in **C++**
-- 🧩 Love solving problems — from **brute force to optimized solutions**
-- 🔁 Code. Debug. Repeat.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manishns2007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🌱 Currently
-- Working on **real-world projects**
----
-
-### 🧑‍💻 Projects
-- 🔐 **Cybersecurity Chatbot** – chatbot focused on cybersecurity concepts  
-- 🏫 **DormFix** – hostel/room management system  
-- 📊 **Credit Scoring Model** – ML-based scoring system  
+### 🧑‍💼 Professional Summary
+Cybersecurity-oriented developer with a strong foundation in **secure systems, AI-assisted technologies, and software engineering**.  
+Focused on understanding system internals, identifying vulnerabilities, and building **robust, security-first applications**.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:**  
-C++, TypeScript, Python  
-
-**Core Skills:**  
-DSA • Problem Solving • Backend Development  
+### 🔭 Current Focus
+- Cybersecurity fundamentals & ethical hacking  
+- Secure web and backend development  
+- Applying AI concepts to practical engineering problems  
 
 ---
 
-### 🛠️ Tools & IDEs
-VS Code • GitHub • Linux • Debuggers 
+### 🌱 Learning & Upskilling
+- Networking, Linux internals & operating systems  
+- Web security standards (OWASP, vulnerability analysis & mitigation)  
+- Data Structures, Algorithms & problem-solving  
 
 ---
 
-### 📈 GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishns2007&show_icons=true&theme=tokyonight)
+### 🤝 Open to Collaboration
+- Cybersecurity & secure software projects  
+- AI-driven development tools  
+- Open-source engineering initiatives  
 
 ---
 
-### 🔥 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishns2007&theme=tokyo-night)
+### 💬 Areas of Expertise
+- Cybersecurity fundamentals  
+- Programming: **C / C++ / JavaScript**  
+- Linux, debugging & system-level concepts  
 
-⭐ _Curious mind. Consistent grind._
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,linux,git,github,html,css" />
+</p>
+
+---
+
+### 🧠 Domains of Interest
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-003366?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Development-1F6FEB?style=for-the-badge&logo=code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishns2007&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishns2007&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishns2007&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📫 Contact
+- GitHub: **@manishns2007**
+
+---
+
+### ⚡ Personal Note
+I believe secure systems are built by deeply understanding how they fail —  
+**security is a foundation, not a feature.**
