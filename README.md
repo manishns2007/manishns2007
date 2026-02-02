@@ -60,7 +60,7 @@ Focused on understanding system internals, identifying vulnerabilities, and buil
 
 ### 📫 Contact
 - GitHub: **@manishns2007**
-- instagram: @_.manish._019
+- instagram: @manish.exe19
 ---
 
 ### ⚡ Personal Note
