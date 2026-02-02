@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Cybersecurity | Artificial Intelligence | Software Development</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&width=380&lines=Software+Development)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&width=520&lines=Software+Development;Cybersecurity;AI+Automations" />
+</p>
+
 
 
 ---
