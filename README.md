@@ -2,53 +2,58 @@
 <h3 align="center">Cybersecurity | Artificial Intelligence | Software Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&width=600&lines=Software+Development;Cybersecurity;AI+Automations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+Engineering;AI+Automations;Security-First+Thinking" />
 </p>
 
+---
 
-### 🧑‍💼 Professional Summary
+## 🧑‍💼 Professional Summary
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&width=900&lines=Building+secure+systems+by+understanding+how+they+break;Security-first+software+engineering+mindset" />
+</p>
+
 Cybersecurity-oriented developer with a strong foundation in **secure systems, AI-assisted technologies, and software engineering**.  
 Focused on understanding system internals, identifying vulnerabilities, and building **robust, security-first applications**.
 
 ---
 
-### 🔭 Current Focus
-- Cybersecurity fundamentals & ethical hacking  
-- Secure web and backend development  
-- Applying AI concepts to practical engineering problems  
+## 🔭 Current Focus
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=F7C843&center=true&width=850&lines=Cybersecurity+fundamentals+%26+ethical+hacking;Secure+web+and+backend+development;AI+for+engineering+automation" />
+</p>
 
 ---
 
-### 🌱 Learning & Upskilling
-- Networking, Linux internals & operating systems  
-- Web security standards (OWASP, vulnerability analysis & mitigation)  
-- Data Structures, Algorithms & problem-solving  
+## 🌱 Learning & Upskilling
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FF6B6B&center=true&width=950&lines=Networking+%7C+Linux+Internals+%7C+Operating+Systems;OWASP+%7C+Vulnerability+Analysis+%7C+Mitigation;DSA+%7C+Problem+Solving+%7C+System+Thinking" />
+</p>
 
 ---
 
-### 🤝 Open to Collaboration
-- Cybersecurity & secure software projects  
-- AI-driven development tools  
-- Open-source engineering initiatives  
+## 🤝 Open to Collaboration
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&width=850&lines=Cybersecurity+projects;AI-driven+developer+tools;Open-source+engineering" />
+</p>
 
 ---
 
-### 💬 Areas of Expertise
-- Cybersecurity fundamentals  
-- Programming: **C / C++ / JavaScript**  
-- Linux, debugging & system-level concepts  
+## 💬 Areas of Expertise
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&width=900&lines=Cybersecurity+Fundamentals;C+%7C+C%2B%2B+%7C+JavaScript;Linux+%7C+Debugging+%7C+System-level+Concepts" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
+## 🛠️ Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python,linux,git,github,html,css" />
 </p>
 
 ---
 
-### 🧠 Domains of Interest
-<p align="left">
+## 🧠 Domains of Interest
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-003366?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Development-1F6FEB?style=for-the-badge&logo=code&logoColor=white" />
@@ -56,13 +61,27 @@ Focused on understanding system internals, identifying vulnerabilities, and buil
 
 ---
 
+## 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github.com/manishns2007/manishns2007/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
-### 📫 Contact
-- GitHub: **@manishns2007**
-- instagram: @manish.exe19
+## 📫 Contact
+<p align="center">
+  <a href="https://github.com/manishns2007">
+    <img src="https://img.shields.io/badge/GitHub-manishns2007-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/manish.exe19">
+    <img src="https://img.shields.io/badge/Instagram-manish.exe19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-### ⚡ Personal Note
-I believe secure systems are built by deeply understanding how they fail —  
-**security is a foundation, not a feature.**
+## ⚡ Personal Note
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&width=900&lines=Security+is+not+a+feature;It+is+the+foundation" />
+</p>
+
