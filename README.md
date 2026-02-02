@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&width=520&lines=Software+Development;Cybersecurity;AI+Automations" />
 </p>
----
+
 ### 🧑‍💼 Professional Summary
 Cybersecurity-oriented developer with a strong foundation in **secure systems, AI-assisted technologies, and software engineering**.  
 Focused on understanding system internals, identifying vulnerabilities, and building **robust, security-first applications**.
