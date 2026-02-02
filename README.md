@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Cybersecurity | Artificial Intelligence | Software Development</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishns2007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
-
 ### 🧑‍💼 Professional Summary
 Cybersecurity-oriented developer with a strong foundation in **secure systems, AI-assisted technologies, and software engineering**.  
 Focused on understanding system internals, identifying vulnerabilities, and building **robust, security-first applications**.
