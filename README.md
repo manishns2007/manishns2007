@@ -1,1 +1,107 @@
-<h1 align="center">Hi 👋, I'm Manish</h1> <h3 align="center">Cybersecurity | Artificial Intelligence | Software Development</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development;Cybersecurity+Engineering;AI+Automations;Security-First+Thinking" /> </p> --- ## 🧑‍💼 Professional Summary <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&width=900&lines=Building+secure+systems+by+understanding+how+they+break;Security-first+software+engineering+mindset" /> </p> Cybersecurity-oriented developer with a strong foundation in **secure systems, AI-assisted technologies, and software engineering**. Focused on understanding system internals, identifying vulnerabilities, and building **robust, security-first applications**. --- ## 🔭 Current Focus <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=F7C843&center=true&width=850&lines=Cybersecurity+fundamentals+%26+ethical+hacking;Secure+web+and+backend+development;AI+for+engineering+automation" /> </p> --- ## 🌱 Learning & Upskilling <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FF6B6B&center=true&width=950&lines=Networking+%7C+Linux+Internals+%7C+Operating+Systems;OWASP+%7C+Vulnerability+Analysis+%7C+Mitigation;DSA+%7C+Problem+Solving+%7C+System+Thinking" /> </p> --- ## 🤝 Open to Collaboration <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&width=850&lines=Cybersecurity+projects;AI-driven+developer+tools;Open-source+engineering" /> </p> --- ## 💬 Areas of Expertise <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&width=900&lines=Cybersecurity+Fundamentals;C+%7C+C%2B%2B+%7C+JavaScript;Linux+%7C+Debugging+%7C+System-level+Concepts" /> </p> --- ## 🛠️ Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,js,python,linux,git,github,html,css" /> </p> --- ## 🧠 Domains of Interest <p align="center"> <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/Artificial%20Intelligence-003366?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Software%20Development-1F6FEB?style=for-the-badge&logo=code&logoColor=white" /> </p> --- ## 🐍 Contribution Activity <p align="center"> <img src="https://github.com/manishns2007/manishns2007/blob/output/github-contribution-grid-snake.svg" /> </p> --- ## 📫 Contact <p align="center"> <a href="https://github.com/manishns2007"> <img src="https://img.shields.io/badge/GitHub-manishns2007-000000?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/manish.exe19"> <img src="https://img.shields.io/badge/Instagram-manish.exe19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> --- ## ⚡ Personal Note <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&width=900&lines=Security+is+not+a+feature;It+is+the+foundation" /> </p>
+<h1 align="center">👋 Hello, I'm Manish!</h1>
+<p align="center">
+🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps Learner
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=540&lines=Cybersecurity+Learner;Ethical+Hacker;DevOps+Explorer;DSA+%26+Problem+Solver;Always+Learning+%F0%9F%94%A5" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🎓 B.Tech IT Student  
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🧪 Hands-on with **Penetration Testing & Network Security**
+- ⚙️ Exploring **DevOps & Cloud Fundamentals**
+- 📈 Improving **DSA & Competitive Programming**
+- 🛠️ Building security-focused projects
+
+---
+
+### ⚡ Fun Fact
+> *“Break systems to secure them — ethically 😈”*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+### 🛡️ Cybersecurity & Ethical Hacking Toolkit
+| Category | Tools |
+|--------|-------|
+| 🧪 Pen Testing | Nmap, Metasploit, Burp Suite, SQLMap |
+| 🌐 Web Security | OWASP ZAP, Nikto, DirBuster |
+| 📡 Network | Wireshark, Snort, OpenVAS |
+| 🔍 Password Attacks | John the Ripper, Hydra |
+| ⚙️ DevOps | Git, GitHub Actions, Docker, AWS (Basics), CI/CD |
+| 💻 OS | Kali Linux, Parrot OS, Windows |
+
+---
+
+### 🧰 Tech Stack & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,linux,mysql,git,github,docker,aws&perline=7" />
+</p>
+
+---
+
+### 📊 Competitive Programming Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manish_cyber07?theme=dark&font=JetBrains%20Mono" />
+</p>
+
+---
+
+### 🔐 TryHackMe Profile
+<p align="center">
+  <a href="https://tryhackme.com/p/nsmanish2007">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nsmanish2007.png" alt="TryHackMe Badge">
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsmanish2007&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nsmanish2007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsmanish2007&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+- 🔐 Web Exploitation & Bug Bounty
+- 🧠 Data Structures & Algorithms
+- 📡 Network Enumeration & Scanning
+- 🐳 Docker & CI/CD Pipelines
+- ☁️ Cloud & DevOps Fundamentals
+
+---
+
+### ☕ Let's Connect!
+<p align="center">
+  <a href="mailto:nsmanish2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/manish.exe19/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://tryhackme.com/p/nsmanish2007">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Graph Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nsmanish2007/nsmanish2007/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
