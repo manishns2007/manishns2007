@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Manish!</h1>
 <p align="center">
-🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps Learner
+🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps 
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 ### ⚡ Fun Fact
-> *“Break systems to secure them — ethically 😈”*
+> *“Break systems to secure them — ethically ”*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
