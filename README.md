@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Manish!</h1>
 <p align="center">
-🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps 
+🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps Learner
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 ### ⚡ Fun Fact
-> *“Break systems to secure them — ethically ”*
+> *“Break systems to secure them — ethically 😈”*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛡️ Cybersecurity & Ethical Hacking Toolkit
+### 🛡️ Cybersecurity, Ethical Hacking & DevOps Toolkit
 | Category | Tools |
 |--------|-------|
 | 🧪 Pen Testing | Nmap, Metasploit, Burp Suite, SQLMap |
@@ -65,11 +65,11 @@
 
 ### 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsmanish2007&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishns2007&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nsmanish2007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishns2007&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsmanish2007&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishns2007&theme=tokyonight" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 
 ### 🐍 Contribution Graph Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsmanish2007/nsmanish2007/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/manishns2007/manishns2007/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 </p>
 
 ---
