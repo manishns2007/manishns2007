@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Builder;Cybersecurity+Focused+Engineer;Designing+Secure+%26+Scalable+Systems;DevOps+%26+Cloud+Explorer;Always+Learning+🔥" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Builder;Cybersecurity+Focused+Engineer;Designing+Secure+%26+Scalable+Systems;DevOps+%26+Cloud+Explorer;Always+Learning+%F0%9F%94%A5" />
 </p>
 
 ---
@@ -24,7 +24,6 @@
 - 🥇 **CyberHack V4 Finalist**
 - 🥈 **Import Paradox Finalist**
 - 🥉 **Omi.me Indori × Ojone Hackathon Finalist**
-- 🚀 Multi Hackathon Finalist
 
 ---
 
