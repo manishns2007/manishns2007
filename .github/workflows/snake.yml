@@ -9,8 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # 🚨 THIS IS CRITICAL
+
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: manishns2007
           outputs: |
