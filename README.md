@@ -81,7 +81,7 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/nishanthcr7777#-contributions-snake" />
+  <img src="https://github.com/manishns2007#-contributions-snake" />
 </p>
 
 ---
