@@ -1,26 +1,35 @@
 <h1 align="center">👋 Hello, I'm Manish!</h1>
 <p align="center">
-🚀 Cybersecurity Enthusiast | 💻 Ethical Hacking | ⚙️ DevOps 
+🚀 Backend Engineer | 🤖 AI-Native Systems Builder | 🔐 Secure & Scalable Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=540&lines=Cybersecurity+Learner;Ethical+Hacker;DevOps+Explorer;DSA+%26+Problem+Solver;Always+Learning+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Builder;Cybersecurity+Focused+Engineer;Designing+Secure+%26+Scalable+Systems;DevOps+%26+Cloud+Explorer;Always+Learning+🔥" />
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🎓 B.Tech IT Student  
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- 🧪 Hands-on with **Penetration Testing & Network Security**
-- ⚙️ Exploring **DevOps & Cloud Fundamentals**
-- 📈 Improving **DSA & Competitive Programming**
-- 🛠️ Building security-focused projects
+- 🏗️ Backend & **AI-Native System Builder**
+- 🔐 Focused on **Secure & Scalable System Design**
+- 🧪 Hands-on with **Cybersecurity & Penetration Testing**
+- ⚙️ Exploring **DevOps, Cloud & Distributed Systems**
+- 📈 Strong in **DSA & Problem Solving**
+- 🛠️ Building real-world **security-focused applications**
+
+---
+
+### 🏆 Achievements
+- 🥇 **CyberHack V4 Finalist**
+- 🥈 **Import Paradox Finalist**
+- 🥉 **Omi.me Indori × Ojone Hackathon Finalist**
+- 🚀 Multi Hackathon Finalist
 
 ---
 
 ### ⚡ Fun Fact
-> *“Break systems to secure them — ethically ”*
+> *“Build systems that are secure by default and scalable by design.”*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -28,19 +37,20 @@
 
 ---
 
-### 🛡️ Cybersecurity, Ethical Hacking & DevOps Toolkit
+### 🛡️ Cybersecurity, Backend & DevOps Toolkit
 | Category | Tools |
 |--------|-------|
-| 🧪 Pen Testing | Nmap, Metasploit, Burp Suite, SQLMap |
-| 🌐 Web Security | OWASP ZAP, Nikto, DirBuster |
+| 🧪 Security | Nmap, Metasploit, Burp Suite, SQLMap |
+| 🌐 Backend | Python, Node.js, REST APIs |
 | 📡 Network | Wireshark, Snort, OpenVAS |
-| 🔍 Password Attacks | John the Ripper, Hydra |
-| ⚙️ DevOps | Git, GitHub Actions, Docker, AWS (Basics), CI/CD |
-| 💻 OS | Kali Linux, Parrot OS, Windows |
+| 🔍 Password | John the Ripper, Hydra |
+| ⚙️ DevOps | Git, GitHub Actions, Docker, CI/CD |
+| ☁️ Cloud | AWS (Basics) |
+| 💻 OS | Linux, Kali Linux, Windows |
 
 ---
 
-### 🧰 Tech Stack & DevOps
+### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,linux,mysql,git,github,docker,aws&perline=7" />
 </p>
@@ -70,10 +80,17 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/manishns2007/manishns2007/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 🧠 Currently Learning
 - 🔐 Web Exploitation & Bug Bounty
-- 🧠 Data Structures & Algorithms
-- 📡 Network Enumeration & Scanning
+- 🤖 AI-Native Systems & LLM Integrations
+- ⚙️ Backend Architecture & System Design
 - 🐳 Docker & CI/CD Pipelines
 - ☁️ Cloud & DevOps Fundamentals
 
@@ -93,6 +110,3 @@
 </p>
 
 ---
-
-
-
