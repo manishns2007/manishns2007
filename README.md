@@ -81,7 +81,7 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/manishns2007/manishns2007/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="<img src="https://raw.githubusercontent.com/manishns2007/manishns2007/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
