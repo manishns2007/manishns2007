@@ -22,7 +22,7 @@ My work focuses on:
 * 🛡️ Threat Modeling
 * 🤖 Security Automation
 * 🌐 Backend Architecture
-* 🚀 AI-Native Systems
+* 🚀 Cybersecurity Research
 
 I am particularly interested in building tools and platforms that improve software security, investigation workflows, and system resilience.
 
@@ -38,7 +38,7 @@ I am particularly interested in building tools and platforms that improve softwa
 
 ### 🚀 Featured Project
 
-#### NETHRA AI
+#### VERITAS 
 
 AI-assisted investigation platform designed for digital evidence analysis and intelligence generation.
 
