@@ -48,7 +48,7 @@ My interests lie at the intersection of:
 
 ### 📊 Competitive Programming Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/manish_cyber07?theme=dark&font=JetBrains%20Mono" />
+  <img src="https://leetcard.jacoblin.cool/manishns2007?theme=dark&font=JetBrains%20Mono" />
 </p>
 
 ---
