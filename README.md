@@ -127,7 +127,7 @@ Python • FastAPI • PostgreSQL • Docker • LLM Integration
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Current Focus
 
 * Application Security
 * Secure Code Review
