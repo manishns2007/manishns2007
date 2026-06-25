@@ -28,7 +28,7 @@ I am particularly interested in building tools and platforms that improve softwa
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Currently Building
 
 #### VERITAS 
 
