@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hello, I'm Manish!</h1>
-<p align="center">
-🚀 Backend Engineer | 🤖 AI-Native Systems Builder | 🔐 Secure & Scalable Systems
-</p>
+<h1 align="center">👋 Hello, I'm Manish</h1>
+
+<p align="center"> 🔐 Security Engineer • 🏗️ Backend Systems Builder • 🤖 AI-Powered Security Solutions </p>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Builder;Cybersecurity+Focused+Engineer;Designing+Secure+%26+Scalable+Systems;DevOps+%26+Cloud+Explorer;Always+Learning+%F0%9F%94%A5" />
