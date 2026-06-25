@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Manish</h1>
 
 <p align="center">
-🔐 Security Engineer • 🏗️ Secure Systems Builder • 🤖 AI-Powered Security Solutions
+🔐 Application Security • 🏗️ Security Engineering • 🤖 AI-Powered Security Solutions
 </p>
 
 <p align="center">
