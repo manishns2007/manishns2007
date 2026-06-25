@@ -28,14 +28,6 @@ I am particularly interested in building tools and platforms that improve softwa
 
 ---
 
-### 🏆 Achievements
-
-* 🥇 **CyberHack V4 Finalist**
-* 🥈 **Import Paradox Finalist**
-* 🥉 **Omi.me Indori × Ojone Hackathon Finalist**
-
----
-
 ### 🚀 Featured Project
 
 #### VERITAS 
