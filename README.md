@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Manish</h1>
 
-<p align="center"> 🔐 Security Engineer • 🏗️ Backend Systems Builder • 🤖 AI-Powered Security Solutions </p>
+<p align="center"> 🔐 Security Engineer • 🏗️ Threat Modelling • 🤖 AI-Powered Security Solutions </p>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Builder;Cybersecurity+Focused+Engineer;Designing+Secure+%26+Scalable+Systems;DevOps+%26+Cloud+Explorer;Always+Learning+%F0%9F%94%A5" />
@@ -9,13 +9,14 @@
 ---
 
 ### 🧠 About Me
-- 🎓 B.Tech IT Student  
-- 🏗️ Backend & **AI-Native System Builder**
-- 🔐 Focused on **Secure & Scalable System Design**
-- 🧪 Hands-on with **Cybersecurity & Penetration Testing**
-- ⚙️ Exploring **DevOps, Cloud & Distributed Systems**
-- 📈 Strong in **DSA & Problem Solving**
-- 🛠️ Building real-world **security-focused applications**
+I build secure backend systems, security-focused applications, and AI-powered solutions that solve real-world problems.
+My interests lie at the intersection of:
+- Application Security
+- Secure Software Development
+- Threat Modeling
+- Security Automation
+- AI-Native Systems
+
 
 ---
 
@@ -24,16 +25,6 @@
 - 🥈 **Import Paradox Finalist**
 - 🥉 **Omi.me Indori × Ojone Hackathon Finalist**
 
----
-
-### ⚡ Fun Fact
-> *“Build systems that are secure by default and scalable by design.”*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
----
 
 ### 🛡️ Cybersecurity, Backend & DevOps Toolkit
 | Category | Tools |
@@ -43,7 +34,7 @@
 | 📡 Network | Wireshark, Snort, OpenVAS |
 | 🔍 Password | John the Ripper, Hydra |
 | ⚙️ DevOps | Git, GitHub Actions, Docker, CI/CD |
-| ☁️ Cloud | AWS (Basics) |
+| ☁️ Cloud | AWS | Azure |
 | 💻 OS | Linux, Kali Linux, Windows |
 
 ---
@@ -89,7 +80,6 @@
 - 🤖 AI-Native Systems & LLM Integrations
 - ⚙️ Backend Architecture & System Design
 - 🐳 Docker & CI/CD Pipelines
-- ☁️ Cloud & DevOps Fundamentals
 
 ---
 
@@ -98,7 +88,7 @@
   <a href="mailto:nsmanish2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/manish.exe19/">
+  <a href="https://www.instagram.com/manish.pog/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://tryhackme.com/p/nsmanish2007">
