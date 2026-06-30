@@ -30,7 +30,7 @@ I am particularly interested in building tools and platforms that improve softwa
 
 ### 🚀 Currently Building
 
-#### VERITAS 
+#### NETHRA AI 
 
 AI-assisted investigation platform designed for digital evidence analysis and intelligence generation.
 
