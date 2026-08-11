@@ -33,16 +33,14 @@ I am particularly interested in building tools and platforms that improve softwa
 #### KernelOps
 Linux Runtime Detection & Response Platform using eBPF
 
-GitHub
-Official Portal
 High-performance Linux runtime detection and response (RDR) engine designed to monitor low-level kernel events and enforce security policies in real time.
 
-Key Features & Innovations
+**Key Features & Innovations**
 Kernel-level telemetry collection for process execution, file I/O & network sockets via eBPF probes
 Rule-based threat engine aligned with MITRE ATT&CK techniques and policy-driven remediation
 Optimized user-space event consumer implemented in C/libbpf and Rust for minimal system overhead
 
-Tech Stack
+**Tech Stack**
 eBPF . C . libbpf . Rust . Linux . WSL
 
 ---
