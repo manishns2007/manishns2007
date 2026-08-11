@@ -30,20 +30,20 @@ I am particularly interested in building tools and platforms that improve softwa
 
 ### 🚀 Currently Building
 
-#### NETHRA AI 
+#### KernelOps
+Linux Runtime Detection & Response Platform using eBPF
 
-AI-assisted investigation platform designed for digital evidence analysis and intelligence generation.
+GitHub
+Official Portal
+High-performance Linux runtime detection and response (RDR) engine designed to monitor low-level kernel events and enforce security policies in real time.
 
-**Key Features**
+Key Features & Innovations
+Kernel-level telemetry collection for process execution, file I/O & network sockets via eBPF probes
+Rule-based threat engine aligned with MITRE ATT&CK techniques and policy-driven remediation
+Optimized user-space event consumer implemented in C/libbpf and Rust for minimal system overhead
 
-* Evidence ingestion and integrity verification using SHA-256
-* Entity extraction and relationship mapping
-* Timeline reconstruction
-* AI-assisted lead generation
-* Secure investigation workflow management
-
-**Tech Stack**
-Python • FastAPI • PostgreSQL • Docker • LLM Integration
+Tech Stack
+eBPF . C . libbpf . Rust . Linux . WSL
 
 ---
 
