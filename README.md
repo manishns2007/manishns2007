@@ -45,7 +45,7 @@ eBPF . C . libbpf . Rust . Linux . WSL
 
 ---
 
-### ### 🏆 Achievements
+### 🏆 Achievements
 
 * 🥇 **Top 10% Builder — ACPIA / Hac’KP 2026** · National Finalist
 * 🌍 **Bricks Future Skills** · International Finalist
