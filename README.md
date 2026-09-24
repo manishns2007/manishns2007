@@ -45,15 +45,12 @@ eBPF . C . libbpf . Rust . Linux . WSL
 
 ---
 
-### 🎯 Security Interests
+### ### 🏆 Achievements
 
-* Application Security
-* Secure Code Review
-* Threat Modeling
-* Security Automation
-* Vulnerability Research
-* Secure System Design
-* Cloud Security
+* 🥇 **Top 10% Builder — ACPIA / Hac’KP 2026** · National Finalist
+* 🌍 **Bricks Future Skills** · International Finalist
+* 🏆 **CyberHack V4** (Tamil Nadu Police) · Finalist 
+* 🏅 **The HIVE** · Top 10 / 180 Final Builders
 
 ---
 
